@@ -1,3 +1,6 @@
+# Android 状态栏工具类
+
+
 ```groovy
 allprojects {
     repositories {
@@ -11,5 +14,7 @@ dependencies {
     implementation 'com.github.m-maohuawei:am-statusbar-utils:1.0.0'
 }
 ```
-[![Release](https://jitpack.io/v/m-maohuawei/am-statusbar-utils.svg)]
-(https://jitpack.io/#m-maohuawei/am-statusbar-utils)
+
+
+
+[![Release](https://jitpack.io/v/m-maohuawei/am-statusbar-utils.svg)](https://jitpack.io/#m-maohuawei/am-statusbar-utils)
